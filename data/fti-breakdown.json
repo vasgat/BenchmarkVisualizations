@@ -10,1392 +10,767 @@
     },
     {
         "id": 3,
-        "name": "1.1 Own Operations Policies (score)",
+        "name": "1.1 Own Operations Policies",
         "parent": 2
     },
     {
         "id": 4,
-        "name": "1.1 Own Operations Policies",
-        "parent": 3
-    },
-    {
-        "id": 5,
         "name": "1.2 Supply Chain Policies",
         "parent": 2
     },
     {
+        "id": 5,
+        "name": "Supply Chain Policies",
+        "parent": 4
+    },
+    {
         "id": 6,
-        "name": "Supply Chain Policies (score)",
-        "parent": 5
+        "name": "Supply Chain Policies Align with International Standards",
+        "parent": 4
     },
     {
         "id": 7,
-        "name": "Supply Chain Policies",
-        "parent": 6
+        "name": "Supply Chain Policies Are Contractual",
+        "parent": 4
     },
     {
         "id": 8,
-        "name": "Supply Chain Policies Align with International Standards (score)",
-        "parent": 5
+        "name": "Supply Chain Policies in Local Language",
+        "parent": 4
     },
     {
         "id": 9,
-        "name": "Supply Chain Policies Align with International Standards",
-        "parent": 8
-    },
-    {
-        "id": 10,
-        "name": "Supply Chain Policies Are Contractual (score)",
-        "parent": 5
-    },
-    {
-        "id": 11,
-        "name": "Supply Chain Policies Are Contractual",
-        "parent": 10
-    },
-    {
-        "id": 12,
-        "name": "Supply Chain Policies in Local Language (score)",
-        "parent": 5
-    },
-    {
-        "id": 13,
-        "name": "Supply Chain Policies in Local Language",
-        "parent": 12
-    },
-    {
-        "id": 14,
-        "name": "1.3 Management Procedures (score)",
+        "name": "1.3 Management Procedures",
         "parent": 2
     },
     {
-        "id": 15,
-        "name": "1.3 Management Procedures",
-        "parent": 14
-    },
-    {
-        "id": 16,
+        "id": 10,
         "name": "1.4 Identification of Impacts",
         "parent": 2
     },
     {
-        "id": 17,
-        "name": "Plan for Improving Human Rights Impacts (score)",
-        "parent": 16
-    },
-    {
-        "id": 18,
+        "id": 11,
         "name": "Plan for Improving Human Rights Impacts",
-        "parent": 17
+        "parent": 10
     },
     {
-        "id": 19,
-        "name": "Plan for Improving Environmental Impacts (score)",
-        "parent": 16
-    },
-    {
-        "id": 20,
+        "id": 12,
         "name": "Plan for Improving Environmental Impacts",
-        "parent": 19
+        "parent": 10
     },
     {
-        "id": 21,
-        "name": "Reports on Efforts to Improve Human Rights Impacts (score)",
-        "parent": 16
-    },
-    {
-        "id": 22,
+        "id": 13,
         "name": "Reports on Efforts to Improve Human Rights Impacts",
-        "parent": 21
+        "parent": 10
     },
     {
-        "id": 23,
-        "name": "Reports on Efforts to Improve Environmental Impacts (score)",
-        "parent": 16
-    },
-    {
-        "id": 24,
+        "id": 14,
         "name": "Reports on Efforts to Improve Environmental Impacts",
-        "parent": 23
+        "parent": 10
     },
     {
-        "id": 25,
-        "name": "1.5 Verified Sustainability Report (score)",
+        "id": 15,
+        "name": "1.5 Verified Sustainability Report",
         "parent": 2
     },
     {
-        "id": 26,
-        "name": "1.5 Verified Sustainability Report",
-        "parent": 25
-    },
-    {
-        "id": 27,
+        "id": 16,
         "name": "2. Governance Score",
         "parent": 1
     },
     {
-        "id": 28,
-        "name": "2.1 Identifies Lead Responsibility for Human Rights & Environmental Issues (score)",
-        "parent": 27
-    },
-    {
-        "id": 29,
+        "id": 17,
         "name": "2.1 Identifies Lead Responsibility for Human Rights & Environmental Issues",
-        "parent": 28
+        "parent": 16
     },
     {
-        "id": 30,
+        "id": 18,
         "name": "2.2 Board Accountability for Human Rights & Environmental Issues",
-        "parent": 27
+        "parent": 16
     },
     {
-        "id": 31,
-        "name": "Worker Representation on Board (score)",
-        "parent": 30
-    },
-    {
-        "id": 32,
+        "id": 19,
         "name": "Worker Representation on Board",
-        "parent": 31
+        "parent": 18
     },
     {
-        "id": 33,
-        "name": "Implementation of Board Level Accountability Described (score)",
-        "parent": 30
-    },
-    {
-        "id": 34,
+        "id": 20,
         "name": "Implementation of Board Level Accountability Described",
-        "parent": 33
+        "parent": 18
     },
     {
-        "id": 35,
-        "name": "Accountable Board Member Identified (score)",
-        "parent": 30
-    },
-    {
-        "id": 36,
+        "id": 21,
         "name": "Accountable Board Member Identified",
-        "parent": 35
+        "parent": 18
     },
     {
-        "id": 37,
-        "name": "Responsible Tax Strategy (score)",
-        "parent": 27
-    },
-    {
-        "id": 38,
+        "id": 22,
         "name": "Responsible Tax Strategy",
-        "parent": 37
+        "parent": 16
     },
     {
-        "id": 39,
+        "id": 23,
         "name": "2.4 Incorporation of Human Rights & Environmental Performance in Purchasing Practices",
-        "parent": 27
+        "parent": 16
     },
     {
-        "id": 40,
-        "name": "Employee Incentives to Improve Impacts (score)",
-        "parent": 39
-    },
-    {
-        "id": 41,
+        "id": 24,
         "name": "Employee Incentives to Improve Impacts",
-        "parent": 40
+        "parent": 23
     },
     {
-        "id": 42,
-        "name": "Executive Incentives to Improve Impacts (score)",
-        "parent": 39
-    },
-    {
-        "id": 43,
+        "id": 25,
         "name": "Executive Incentives to Improve Impacts",
-        "parent": 42
+        "parent": 23
     },
     {
-        "id": 44,
-        "name": "Executive Pay Linked to Environmental and Social Targets (score)",
-        "parent": 39
-    },
-    {
-        "id": 45,
+        "id": 26,
         "name": "Executive Pay Linked to Environmental and Social Targets",
-        "parent": 44
+        "parent": 23
     },
     {
-        "id": 46,
-        "name": "Supplier Incentives to Improve Impacts (score)",
-        "parent": 39
-    },
-    {
-        "id": 47,
+        "id": 27,
         "name": "Supplier Incentives to Improve Impacts",
-        "parent": 46
+        "parent": 23
     },
     {
-        "id": 48,
+        "id": 28,
         "name": "3. Traceability Score (2023)",
         "parent": 1
     },
     {
-        "id": 49,
-        "name": "3.1 Tier One Factory Disclosure (score)",
-        "parent": 48
-    },
-    {
-        "id": 50,
+        "id": 29,
         "name": "3.1 Tier One Factory Disclosure",
-        "parent": 49
+        "parent": 28
     },
     {
-        "id": 51,
-        "name": "3.2 Processing Facilities Disclosure (score)",
-        "parent": 48
-    },
-    {
-        "id": 52,
+        "id": 30,
         "name": "3.2 Processing Facilities Disclosure",
-        "parent": 51
+        "parent": 28
     },
     {
-        "id": 53,
-        "name": "3.3 Raw Materials Suppliers Disclosure (score)",
-        "parent": 48
-    },
-    {
-        "id": 54,
+        "id": 31,
         "name": "3.3 Raw Materials Suppliers Disclosure",
-        "parent": 53
+        "parent": 28
     },
     {
-        "id": 55,
+        "id": 32,
         "name": "4. Know, Show & Fix Score",
         "parent": 1
     },
     {
-        "id": 56,
+        "id": 33,
         "name": "4.1A Know, Show & Fix: Human Rights Due Diligence",
-        "parent": 55
+        "parent": 32
+    },
+    {
+        "id": 34,
+        "name": "Describes Human Rights Due Diligence Process",
+        "parent": 33
+    },
+    {
+        "id": 35,
+        "name": "Stakeholder Engagement in Human Rights Due Diligence",
+        "parent": 33
+    },
+    {
+        "id": 36,
+        "name": "Approach to Involving Women in Human Rights Due Diligence",
+        "parent": 33
+    },
+    {
+        "id": 37,
+        "name": "Human Rights Risks Impacts and Violations Identified",
+        "parent": 33
+    },
+    {
+        "id": 38,
+        "name": "Prevention Mitigation and Remediation of Human Rights Risks",
+        "parent": 33
+    },
+    {
+        "id": 39,
+        "name": "Human Rights Risk Prevention and Remediation Outcomes Published",
+        "parent": 33
+    },
+    {
+        "id": 40,
+        "name": "4.1B Know, Show & Fix: Environmental Due Diligence",
+        "parent": 32
+    },
+    {
+        "id": 41,
+        "name": "Describes Environmental Due Diligence Process",
+        "parent": 40
+    },
+    {
+        "id": 42,
+        "name": "Stakeholder Engagement in Environmental Due Diligence",
+        "parent": 40
+    },
+    {
+        "id": 43,
+        "name": "Environmental Risks Impacts and Violations Identified",
+        "parent": 40
+    },
+    {
+        "id": 44,
+        "name": "Prevention Mitigation and Remediation of Environmental Risks",
+        "parent": 40
+    },
+    {
+        "id": 45,
+        "name": "Environmental Risk Prevention and Remediation Outcomes Published",
+        "parent": 40
+    },
+    {
+        "id": 46,
+        "name": "4.2 Know: Implementation of Supply Chain Policies",
+        "parent": 32
+    },
+    {
+        "id": 47,
+        "name": "Scope, Process and Accreditation for Environmental Audits",
+        "parent": 46
+    },
+    {
+        "id": 48,
+        "name": "New Production Facility Criteria",
+        "parent": 46
+    },
+    {
+        "id": 49,
+        "name": "Number or % of off-site worker interviews",
+        "parent": 46
+    },
+    {
+        "id": 50,
+        "name": "Percentage of Audits including Trade Union Representative",
+        "parent": 46
+    },
+    {
+        "id": 51,
+        "name": "4.3 Show: Facility Assessments (2023)",
+        "parent": 32
+    },
+    {
+        "id": 52,
+        "name": "Summary of Assessment Findings",
+        "parent": 51
+    },
+    {
+        "id": 53,
+        "name": "Ratings by Named Facilities",
+        "parent": 51
+    },
+    {
+        "id": 54,
+        "name": "Selected Audit Findings by Named Facilities",
+        "parent": 51
+    },
+    {
+        "id": 55,
+        "name": "Full Audit Reports by Named Facilities",
+        "parent": 51
+    },
+    {
+        "id": 56,
+        "name": "4.4A Fix: Remediation Process",
+        "parent": 32
     },
     {
         "id": 57,
-        "name": "Describes Human Rights Due Diligence Process (score)",
+        "name": "Remediation Process",
         "parent": 56
     },
     {
         "id": 58,
-        "name": "Describes Human Rights Due Diligence Process",
-        "parent": 57
+        "name": "Affected Stakeholder Engagement in Remediation",
+        "parent": 56
     },
     {
         "id": 59,
-        "name": "Stakeholder Engagement in Human Rights Due Diligence (score)",
+        "name": "Exit Strategy",
         "parent": 56
     },
     {
         "id": 60,
-        "name": "Stakeholder Engagement in Human Rights Due Diligence",
-        "parent": 59
+        "name": "4.4.B Fix: Grievance Management",
+        "parent": 32
     },
     {
         "id": 61,
-        "name": "Approach to Involving Women in Human Rights Due Diligence (score)",
-        "parent": 56
+        "name": "Grievance Mechanism - Direct Employees",
+        "parent": 60
     },
     {
         "id": 62,
-        "name": "Approach to Involving Women in Human Rights Due Diligence",
-        "parent": 61
+        "name": "Grievance Mechanism - Supply Chain Workers",
+        "parent": 60
     },
     {
         "id": 63,
-        "name": "Human Rights Risks Impacts and Violations Identified (score)",
-        "parent": 56
+        "name": "Grievance Mechanism Implementation - Supply Chain Workers",
+        "parent": 60
     },
     {
         "id": 64,
-        "name": "Human Rights Risks Impacts and Violations Identified",
-        "parent": 63
+        "name": "Grievance Mechanism Disseminated to Supply Chain Workers",
+        "parent": 60
     },
     {
         "id": 65,
-        "name": "Prevention Mitigation and Remediation of Human Rights Risks (score)",
-        "parent": 56
+        "name": "Grievance Mechanism in Supplier Policies",
+        "parent": 60
     },
     {
         "id": 66,
-        "name": "Prevention Mitigation and Remediation of Human Rights Risks",
-        "parent": 65
+        "name": "Grievance Reporting - Supply Chain Workers",
+        "parent": 60
     },
     {
         "id": 67,
-        "name": "Human Rights Risk Prevention and Remediation Outcomes Published (score)",
-        "parent": 56
-    },
-    {
-        "id": 68,
-        "name": "Human Rights Risk Prevention and Remediation Outcomes Published",
-        "parent": 67
-    },
-    {
-        "id": 69,
-        "name": "4.1B Know, Show & Fix: Environmental Due Diligence",
-        "parent": 55
-    },
-    {
-        "id": 70,
-        "name": "Describes Environmental Due Diligence Process (score)",
-        "parent": 69
-    },
-    {
-        "id": 71,
-        "name": "Describes Environmental Due Diligence Process",
-        "parent": 70
-    },
-    {
-        "id": 72,
-        "name": "Stakeholder Engagement in Environmental Due Diligence (score)",
-        "parent": 69
-    },
-    {
-        "id": 73,
-        "name": "Stakeholder Engagement in Environmental Due Diligence",
-        "parent": 72
-    },
-    {
-        "id": 74,
-        "name": "Environmental Risks Impacts and Violations Identified (score)",
-        "parent": 69
-    },
-    {
-        "id": 75,
-        "name": "Environmental Risks Impacts and Violations Identified",
-        "parent": 74
-    },
-    {
-        "id": 76,
-        "name": "Prevention Mitigation and Remediation of Environmental Risks (score)",
-        "parent": 69
-    },
-    {
-        "id": 77,
-        "name": "Prevention Mitigation and Remediation of Environmental Risks",
-        "parent": 76
-    },
-    {
-        "id": 78,
-        "name": "Environmental Risk Prevention and Remediation Outcomes Published (score)",
-        "parent": 69
-    },
-    {
-        "id": 79,
-        "name": "Environmental Risk Prevention and Remediation Outcomes Published",
-        "parent": 78
-    },
-    {
-        "id": 80,
-        "name": "4.2 Know: Implementation of Supply Chain Policies",
-        "parent": 55
-    },
-    {
-        "id": 81,
-        "name": "Scope, Process and Accreditation for Environmental Audits (score)",
-        "parent": 80
-    },
-    {
-        "id": 82,
-        "name": "Scope, Process and Accreditation for Environmental Audits",
-        "parent": 81
-    },
-    {
-        "id": 83,
-        "name": "New Production Facility Criteria (score)",
-        "parent": 80
-    },
-    {
-        "id": 84,
-        "name": "New Production Facility Criteria",
-        "parent": 83
-    },
-    {
-        "id": 85,
-        "name": "Number or % of off-site worker interviews (score)",
-        "parent": 80
-    },
-    {
-        "id": 86,
-        "name": "Number or % of off-site worker interviews",
-        "parent": 85
-    },
-    {
-        "id": 87,
-        "name": "Percentage of Audits including Trade Union Representative (score)",
-        "parent": 80
-    },
-    {
-        "id": 88,
-        "name": "Percentage of Audits including Trade Union Representative",
-        "parent": 87
-    },
-    {
-        "id": 89,
-        "name": "4.3 Show: Facility Assessments (2023)",
-        "parent": 55
-    },
-    {
-        "id": 90,
-        "name": "Summary of Assessment Findings (score)",
-        "parent": 89
-    },
-    {
-        "id": 91,
-        "name": "Summary of Assessment Findings",
-        "parent": 90
-    },
-    {
-        "id": 92,
-        "name": "Ratings by Named Facilities (score)",
-        "parent": 89
-    },
-    {
-        "id": 93,
-        "name": "Ratings by Named Facilities",
-        "parent": 92
-    },
-    {
-        "id": 94,
-        "name": "Selected Audit Findings by Named Facilities (score)",
-        "parent": 89
-    },
-    {
-        "id": 95,
-        "name": "Selected Audit Findings by Named Facilities",
-        "parent": 94
-    },
-    {
-        "id": 96,
-        "name": "Full Audit Reports by Named Facilities (score)",
-        "parent": 89
-    },
-    {
-        "id": 97,
-        "name": "Full Audit Reports by Named Facilities",
-        "parent": 96
-    },
-    {
-        "id": 98,
-        "name": "4.4A Fix: Remediation Process",
-        "parent": 55
-    },
-    {
-        "id": 99,
-        "name": "Remediation Process (score)",
-        "parent": 98
-    },
-    {
-        "id": 100,
-        "name": "Remediation Process",
-        "parent": 99
-    },
-    {
-        "id": 101,
-        "name": "Affected Stakeholder Engagement in Remediation (score)",
-        "parent": 98
-    },
-    {
-        "id": 102,
-        "name": "Affected Stakeholder Engagement in Remediation",
-        "parent": 101
-    },
-    {
-        "id": 103,
-        "name": "Exit Strategy (score)",
-        "parent": 98
-    },
-    {
-        "id": 104,
-        "name": "Exit Strategy",
-        "parent": 103
-    },
-    {
-        "id": 105,
-        "name": "4.4.B Fix: Grievance Management",
-        "parent": 55
-    },
-    {
-        "id": 106,
-        "name": "Grievance Mechanism - Direct Employees (score)",
-        "parent": 105
-    },
-    {
-        "id": 107,
-        "name": "Grievance Mechanism - Direct Employees",
-        "parent": 106
-    },
-    {
-        "id": 108,
-        "name": "Grievance Mechanism - Supply Chain Workers (score)",
-        "parent": 105
-    },
-    {
-        "id": 109,
-        "name": "Grievance Mechanism - Supply Chain Workers",
-        "parent": 108
-    },
-    {
-        "id": 110,
-        "name": "Grievance Mechanism Implementation - Supply Chain Workers (score)",
-        "parent": 105
-    },
-    {
-        "id": 111,
-        "name": "Grievance Mechanism Implementation - Supply Chain Workers",
-        "parent": 110
-    },
-    {
-        "id": 112,
-        "name": "Grievance Mechanism Disseminated to Supply Chain Workers (score)",
-        "parent": 105
-    },
-    {
-        "id": 113,
-        "name": "Grievance Mechanism Disseminated to Supply Chain Workers",
-        "parent": 112
-    },
-    {
-        "id": 114,
-        "name": "Grievance Mechanism in Supplier Policies (score)",
-        "parent": 105
-    },
-    {
-        "id": 115,
-        "name": "Grievance Mechanism in Supplier Policies",
-        "parent": 114
-    },
-    {
-        "id": 116,
-        "name": "Grievance Reporting - Supply Chain Workers (score)",
-        "parent": 105
-    },
-    {
-        "id": 117,
-        "name": "Grievance Reporting - Supply Chain Workers",
-        "parent": 116
-    },
-    {
-        "id": 118,
         "name": "5. Spotlight Issues Score (2023)",
         "parent": 1
     },
     {
-        "id": 119,
+        "id": 68,
         "name": "5.1 Decent Work & Purchasing Practices (2023)",
-        "parent": 118
+        "parent": 67
+    },
+    {
+        "id": 69,
+        "name": "Tackling Modern Slavery Score",
+        "parent": 68
+    },
+    {
+        "id": 70,
+        "name": "Discloses Approach to Recruitment Fees",
+        "parent": 69
+    },
+    {
+        "id": 71,
+        "name": "Discloses Number of Workers Affected by Recruitment Fees",
+        "parent": 69
+    },
+    {
+        "id": 72,
+        "name": "Discloses Data on Modern Slavery Prevalence",
+        "parent": 69
+    },
+    {
+        "id": 73,
+        "name": "Towards Paying Living Wages Score (2023)",
+        "parent": 68
+    },
+    {
+        "id": 74,
+        "name": "Discloses Approach to Living Wage",
+        "parent": 73
+    },
+    {
+        "id": 75,
+        "name": "Discloses Strategy to Achieving Living Wage",
+        "parent": 73
+    },
+    {
+        "id": 76,
+        "name": "Discloses Progress toward the payment of a Living Wage to workers in the supply chain",
+        "parent": 73
+    },
+    {
+        "id": 77,
+        "name": "Discloses Living Wage Estimates Used for Benchmarking",
+        "parent": 73
+    },
+    {
+        "id": 78,
+        "name": "Discloses Percentage of Workers Receiving Wage Payments Digitally",
+        "parent": 73
+    },
+    {
+        "id": 79,
+        "name": "Publishes Percentage of Workers Paid Above Minimum Wage",
+        "parent": 73
+    },
+    {
+        "id": 80,
+        "name": "Discloses Percentage of Workers Paid By Piece Rate",
+        "parent": 73
+    },
+    {
+        "id": 81,
+        "name": "Reports on Minimum Wage Paid for Daily / Piece Rate Workers",
+        "parent": 73
+    },
+    {
+        "id": 82,
+        "name": "Discloses Proportion of Workers Paid Minimum Wage",
+        "parent": 73
+    },
+    {
+        "id": 83,
+        "name": "Publishes Percentage or Number of Workers Earning a Living Wage",
+        "parent": 73
+    },
+    {
+        "id": 84,
+        "name": "Purchasing Practices Score",
+        "parent": 68
+    },
+    {
+        "id": 85,
+        "name": "Protects Labour Costs in Price Negotiations",
+        "parent": 84
+    },
+    {
+        "id": 86,
+        "name": "Discloses Quantity of Orders with Labor Cost Protection",
+        "parent": 84
+    },
+    {
+        "id": 87,
+        "name": "Discloses Free on Board (FOB) Price Changes (COVID-19 Response)",
+        "parent": 84
+    },
+    {
+        "id": 88,
+        "name": "Publishes Standard Supplier Agreement Template",
+        "parent": 84
+    },
+    {
+        "id": 89,
+        "name": "Publishes Responsible Purchasing Code of Conduct",
+        "parent": 84
+    },
+    {
+        "id": 90,
+        "name": "Discloses Policy on Up-Front Supplier Payments",
+        "parent": 84
+    },
+    {
+        "id": 91,
+        "name": "Policy to Pay Supplier Within 60 Days",
+        "parent": 84
+    },
+    {
+        "id": 92,
+        "name": "Discloses Time Taken to Pay Purchase Orders",
+        "parent": 84
+    },
+    {
+        "id": 93,
+        "name": "Discloses Quantity of Orders Changed After Original Agreement",
+        "parent": 84
+    },
+    {
+        "id": 94,
+        "name": "Publishes Supplier Feedback on Purchasing Practices",
+        "parent": 84
+    },
+    {
+        "id": 95,
+        "name": "Unionisation and Collective Bargaining Score",
+        "parent": 68
+    },
+    {
+        "id": 96,
+        "name": "Discloses number or % of supplier facilities that have independent, democratically elected trade unions",
+        "parent": 95
+    },
+    {
+        "id": 97,
+        "name": "Discloses number or % of Workers covered by Collective Bargaining Agreements",
+        "parent": 95
+    },
+    {
+        "id": 98,
+        "name": "Discloses Number of Collective Bargaining Agreements Providing Wages Above Legal Minimum",
+        "parent": 95
+    },
+    {
+        "id": 99,
+        "name": "Discloses Prevalance of Collective Bargaining Violations",
+        "parent": 95
+    },
+    {
+        "id": 100,
+        "name": "5.2 Gender & Racial Equality Score",
+        "parent": 67
+    },
+    {
+        "id": 101,
+        "name": "Gender Equality Score",
+        "parent": 100
+    },
+    {
+        "id": 102,
+        "name": "Publishes Gender-based Labour Violations Data",
+        "parent": 101
+    },
+    {
+        "id": 103,
+        "name": "Publishes Sex-disaggregated Job Distribution",
+        "parent": 101
+    },
+    {
+        "id": 104,
+        "name": "Publishes Gender Pay Gap",
+        "parent": 101
+    },
+    {
+        "id": 105,
+        "name": "Discloses Gender Equality Actions in Supplier Facilities",
+        "parent": 101
+    },
+    {
+        "id": 106,
+        "name": "Racial Equality Score",
+        "parent": 100
+    },
+    {
+        "id": 107,
+        "name": "Publishes Racial Equality Actions",
+        "parent": 106
+    },
+    {
+        "id": 108,
+        "name": "Publishes Ethnicity Pay Gap",
+        "parent": 106
+    },
+    {
+        "id": 109,
+        "name": "Publishes Race-disaggregated Job Distribution",
+        "parent": 106
+    },
+    {
+        "id": 110,
+        "name": "5.3 Sustainable Sourcing & Materials",
+        "parent": 67
+    },
+    {
+        "id": 111,
+        "name": "Discloses Sourced Fibre Breakdown",
+        "parent": 110
+    },
+    {
+        "id": 112,
+        "name": "Sustainable Materials Strategy",
+        "parent": 110
+    },
+    {
+        "id": 113,
+        "name": "Discloses Progress on Sustainable Materials Strategy",
+        "parent": 110
+    },
+    {
+        "id": 114,
+        "name": "Approach to Defining Sustainable Materials",
+        "parent": 110
+    },
+    {
+        "id": 115,
+        "name": "Targets to Reduce Textiles Derived from Virgin Fossil Fuels",
+        "parent": 110
+    },
+    {
+        "id": 116,
+        "name": "Discloses Progress to Reducing Textiles Derived from Virgin Fossil Fuels",
+        "parent": 110
+    },
+    {
+        "id": 117,
+        "name": "Targets to Reduce Virgin Plastics",
+        "parent": 110
+    },
+    {
+        "id": 118,
+        "name": "Discloses Progress to Reducing Virgin Plastics",
+        "parent": 110
+    },
+    {
+        "id": 119,
+        "name": "Minimizing Impact of Microfibres",
+        "parent": 110
     },
     {
         "id": 120,
-        "name": "Tackling Modern Slavery Score",
-        "parent": 119
+        "name": "5.4 Overconsumption, Waste & Circularity (2023)",
+        "parent": 67
     },
     {
         "id": 121,
-        "name": "Discloses Approach to Recruitment Fees (score)",
+        "name": "Discloses Quantity of Products Produced",
         "parent": 120
     },
     {
         "id": 122,
-        "name": "Discloses Approach to Recruitment Fees",
-        "parent": 121
+        "name": "Commitment to Degrowth",
+        "parent": 120
     },
     {
         "id": 123,
-        "name": "Discloses Number of Workers Affected by Recruitment Fees (score)",
+        "name": "Discloses Quantity of Pre-Production Waste Generated",
         "parent": 120
     },
     {
         "id": 124,
-        "name": "Discloses Number of Workers Affected by Recruitment Fees",
-        "parent": 123
+        "name": "Discloses Quantity of Post-production Waste Generated",
+        "parent": 120
     },
     {
         "id": 125,
-        "name": "Discloses Data on Modern Slavery Prevalence (score)",
+        "name": "Discloses Breakdown of Reuse/Recyling of Pre-consumer Waste",
         "parent": 120
     },
     {
         "id": 126,
-        "name": "Discloses Data on Modern Slavery Prevalence",
-        "parent": 125
+        "name": "Discloses Quantity of Products Destroyed",
+        "parent": 120
     },
     {
         "id": 127,
-        "name": "Towards Paying Living Wages Score (2023)",
-        "parent": 119
+        "name": "Offers Take-back Schemes",
+        "parent": 120
     },
     {
         "id": 128,
-        "name": "Discloses Approach to Living Wage (score)",
-        "parent": 127
+        "name": "Discloses Take-back Scheme Outcomes",
+        "parent": 120
     },
     {
         "id": 129,
-        "name": "Discloses Approach to Living Wage",
-        "parent": 128
+        "name": "Offers Clothing Longevity Business Models",
+        "parent": 120
     },
     {
         "id": 130,
-        "name": "Discloses Strategy to Achieving Living Wage (score)",
-        "parent": 127
+        "name": "Offers Repair Services",
+        "parent": 120
     },
     {
         "id": 131,
-        "name": "Discloses Strategy to Achieving Living Wage",
-        "parent": 130
+        "name": "Discloses Evidence of Developing Circular Solutions",
+        "parent": 120
     },
     {
         "id": 132,
-        "name": "Discloses Progress toward the payment of a Living Wage to workers in the supply chain (score)",
-        "parent": 127
+        "name": "Discloses % of Circular Products",
+        "parent": 120
     },
     {
         "id": 133,
-        "name": "Discloses Progress toward the payment of a Living Wage to workers in the supply chain",
-        "parent": 132
+        "name": "Discloses Efforts to Invest in Supply Chain Workers",
+        "parent": 120
     },
     {
         "id": 134,
-        "name": "Discloses Living Wage Estimates Used for Benchmarking (score)",
-        "parent": 127
+        "name": "5.5 Water & Chemicals",
+        "parent": 67
     },
     {
         "id": 135,
-        "name": "Discloses Living Wage Estimates Used for Benchmarking",
+        "name": "Commitment to Eliminate Hazardous Chemicals",
         "parent": 134
     },
     {
         "id": 136,
-        "name": "Discloses Percentage of Workers Receiving Wage Payments Digitally (score)",
-        "parent": 127
+        "name": "Discloses Progress to Eliminate Hazardous Chemicals",
+        "parent": 134
     },
     {
         "id": 137,
-        "name": "Discloses Percentage of Workers Receiving Wage Payments Digitally",
-        "parent": 136
+        "name": "Publishes Supplier Wastewater Test Results",
+        "parent": 134
     },
     {
         "id": 138,
-        "name": "Publishes Percentage of Workers Paid Above Minimum Wage (score)",
-        "parent": 127
+        "name": "Discloses Water Use",
+        "parent": 134
     },
     {
         "id": 139,
-        "name": "Publishes Percentage of Workers Paid Above Minimum Wage",
-        "parent": 138
+        "name": "Discloses Water-Related Risk Assessment Process",
+        "parent": 134
     },
     {
         "id": 140,
-        "name": "Discloses Percentage of Workers Paid By Piece Rate (score)",
-        "parent": 127
+        "name": "5.6 Climate Change & Biodiversity",
+        "parent": 67
     },
     {
         "id": 141,
-        "name": "Discloses Percentage of Workers Paid By Piece Rate",
+        "name": "Decarbonisation, Deforestation and Regeneration Score (2023)",
         "parent": 140
     },
     {
         "id": 142,
-        "name": "Reports on Minimum Wage Paid for Daily / Piece Rate Workers (score)",
-        "parent": 127
+        "name": "Decarbonisation Commitment",
+        "parent": 141
     },
     {
         "id": 143,
-        "name": "Reports on Minimum Wage Paid for Daily / Piece Rate Workers",
-        "parent": 142
+        "name": "Decarbonisation Progress",
+        "parent": 141
     },
     {
         "id": 144,
-        "name": "Discloses Proportion of Workers Paid Minimum Wage (score)",
-        "parent": 127
+        "name": "Discloses Annual Investment in Decarbonisation",
+        "parent": 141
     },
     {
         "id": 145,
-        "name": "Discloses Proportion of Workers Paid Minimum Wage",
-        "parent": 144
+        "name": "Discloses Content of Scope 1, 2 and 3 Emissions",
+        "parent": 141
     },
     {
         "id": 146,
-        "name": "Publishes Percentage or Number of Workers Earning a Living Wage (score)",
-        "parent": 127
+        "name": "Science Based Targets",
+        "parent": 141
     },
     {
         "id": 147,
-        "name": "Publishes Percentage or Number of Workers Earning a Living Wage",
-        "parent": 146
+        "name": "Environmental Profit and Loss Statement",
+        "parent": 141
     },
     {
         "id": 148,
-        "name": "Purchasing Practices Score",
-        "parent": 119
+        "name": "Zero Deforestation Commitment",
+        "parent": 141
     },
     {
         "id": 149,
-        "name": "Protects Labour Costs in Price Negotiations (score)",
-        "parent": 148
+        "name": "Zero Deforestation Progress",
+        "parent": 141
     },
     {
         "id": 150,
-        "name": "Protects Labour Costs in Price Negotiations",
-        "parent": 149
+        "name": "Implementation of Regenerative Farming Practices",
+        "parent": 141
     },
     {
         "id": 151,
-        "name": "Discloses Quantity of Orders with Labor Cost Protection (score)",
-        "parent": 148
+        "name": "Discloses Carbon Emissions",
+        "parent": 140
     },
     {
         "id": 152,
-        "name": "Discloses Quantity of Orders with Labor Cost Protection",
-        "parent": 151
+        "name": "Energy Use Score",
+        "parent": 140
     },
     {
         "id": 153,
-        "name": "Discloses Free on Board (FOB) Price Changes (COVID-19 Response) (score)",
-        "parent": 148
+        "name": "Discloses Absolute Energy Reduction",
+        "parent": 152
     },
     {
         "id": 154,
-        "name": "Discloses Free on Board (FOB) Price Changes (COVID-19 Response)",
-        "parent": 153
+        "name": "Discloses Renewable Energy Use",
+        "parent": 152
     },
     {
         "id": 155,
-        "name": "Publishes Standard Supplier Agreement Template (score)",
-        "parent": 148
-    },
-    {
-        "id": 156,
-        "name": "Publishes Standard Supplier Agreement Template",
-        "parent": 155
-    },
-    {
-        "id": 157,
-        "name": "Publishes Responsible Purchasing Code of Conduct (score)",
-        "parent": 148
-    },
-    {
-        "id": 158,
-        "name": "Publishes Responsible Purchasing Code of Conduct",
-        "parent": 157
-    },
-    {
-        "id": 159,
-        "name": "Discloses Policy on Up-Front Supplier Payments (score)",
-        "parent": 148
-    },
-    {
-        "id": 160,
-        "name": "Discloses Policy on Up-Front Supplier Payments",
-        "parent": 159
-    },
-    {
-        "id": 161,
-        "name": "Policy to Pay Supplier Within 60 Days (score)",
-        "parent": 148
-    },
-    {
-        "id": 162,
-        "name": "Policy to Pay Supplier Within 60 Days",
-        "parent": 161
-    },
-    {
-        "id": 163,
-        "name": "Discloses Time Taken to Pay Purchase Orders (score)",
-        "parent": 148
-    },
-    {
-        "id": 164,
-        "name": "Discloses Time Taken to Pay Purchase Orders",
-        "parent": 163
-    },
-    {
-        "id": 165,
-        "name": "Discloses Quantity of Orders Changed After Original Agreement (score)",
-        "parent": 148
-    },
-    {
-        "id": 166,
-        "name": "Discloses Quantity of Orders Changed After Original Agreement",
-        "parent": 165
-    },
-    {
-        "id": 167,
-        "name": "Publishes Supplier Feedback on Purchasing Practices (score)",
-        "parent": 148
-    },
-    {
-        "id": 168,
-        "name": "Publishes Supplier Feedback on Purchasing Practices",
-        "parent": 167
-    },
-    {
-        "id": 169,
-        "name": "Unionisation and Collective Bargaining Score",
-        "parent": 119
-    },
-    {
-        "id": 170,
-        "name": "Discloses number or % of supplier facilities that have independent, democratically elected trade unions (score)",
-        "parent": 169
-    },
-    {
-        "id": 171,
-        "name": "Discloses number or % of supplier facilities that have independent, democratically elected trade unions",
-        "parent": 170
-    },
-    {
-        "id": 172,
-        "name": "Discloses number or % of Workers covered by Collective Bargaining Agreements (score)",
-        "parent": 169
-    },
-    {
-        "id": 173,
-        "name": "Discloses number or % of Workers covered by Collective Bargaining Agreements",
-        "parent": 172
-    },
-    {
-        "id": 174,
-        "name": "Discloses Number of Collective Bargaining Agreements Providing Wages Above Legal Minimum (score)",
-        "parent": 169
-    },
-    {
-        "id": 175,
-        "name": "Discloses Number of Collective Bargaining Agreements Providing Wages Above Legal Minimum",
-        "parent": 174
-    },
-    {
-        "id": 176,
-        "name": "Discloses Prevalance of Collective Bargaining Violations (score)",
-        "parent": 169
-    },
-    {
-        "id": 177,
-        "name": "Discloses Prevalance of Collective Bargaining Violations",
-        "parent": 176
-    },
-    {
-        "id": 178,
-        "name": "5.2 Gender & Racial Equality Score",
-        "parent": 118
-    },
-    {
-        "id": 179,
-        "name": "Gender Equality Score",
-        "parent": 178
-    },
-    {
-        "id": 180,
-        "name": "Publishes Gender-based Labour Violations Data (score)",
-        "parent": 179
-    },
-    {
-        "id": 181,
-        "name": "Publishes Gender-based Labour Violations Data",
-        "parent": 180
-    },
-    {
-        "id": 182,
-        "name": "Publishes Sex-disaggregated Job Distribution (score)",
-        "parent": 179
-    },
-    {
-        "id": 183,
-        "name": "Publishes Sex-disaggregated Job Distribution",
-        "parent": 182
-    },
-    {
-        "id": 184,
-        "name": "Publishes Gender Pay Gap (score)",
-        "parent": 179
-    },
-    {
-        "id": 185,
-        "name": "Publishes Gender Pay Gap",
-        "parent": 184
-    },
-    {
-        "id": 186,
-        "name": "Discloses Gender Equality Actions in Supplier Facilities (score)",
-        "parent": 179
-    },
-    {
-        "id": 187,
-        "name": "Discloses Gender Equality Actions in Supplier Facilities",
-        "parent": 186
-    },
-    {
-        "id": 188,
-        "name": "Racial Equality Score",
-        "parent": 178
-    },
-    {
-        "id": 189,
-        "name": "Publishes Racial Equality Actions (score)",
-        "parent": 188
-    },
-    {
-        "id": 190,
-        "name": "Publishes Racial Equality Actions",
-        "parent": 189
-    },
-    {
-        "id": 191,
-        "name": "Publishes Ethnicity Pay Gap (score)",
-        "parent": 188
-    },
-    {
-        "id": 192,
-        "name": "Publishes Ethnicity Pay Gap",
-        "parent": 191
-    },
-    {
-        "id": 193,
-        "name": "Publishes Race-disaggregated Job Distribution (score)",
-        "parent": 188
-    },
-    {
-        "id": 194,
-        "name": "Publishes Race-disaggregated Job Distribution",
-        "parent": 193
-    },
-    {
-        "id": 195,
-        "name": "5.3 Sustainable Sourcing & Materials",
-        "parent": 118
-    },
-    {
-        "id": 196,
-        "name": "Discloses Sourced Fibre Breakdown (score)",
-        "parent": 195
-    },
-    {
-        "id": 197,
-        "name": "Discloses Sourced Fibre Breakdown",
-        "parent": 196
-    },
-    {
-        "id": 198,
-        "name": "Sustainable Materials Strategy (score)",
-        "parent": 195
-    },
-    {
-        "id": 199,
-        "name": "Sustainable Materials Strategy",
-        "parent": 198
-    },
-    {
-        "id": 200,
-        "name": "Discloses Progress on Sustainable Materials Strategy (score)",
-        "parent": 195
-    },
-    {
-        "id": 201,
-        "name": "Discloses Progress on Sustainable Materials Strategy",
-        "parent": 200
-    },
-    {
-        "id": 202,
-        "name": "Approach to Defining Sustainable Materials (score)",
-        "parent": 195
-    },
-    {
-        "id": 203,
-        "name": "Approach to Defining Sustainable Materials",
-        "parent": 202
-    },
-    {
-        "id": 204,
-        "name": "Targets to Reduce Textiles Derived from Virgin Fossil Fuels (score)",
-        "parent": 195
-    },
-    {
-        "id": 205,
-        "name": "Targets to Reduce Textiles Derived from Virgin Fossil Fuels",
-        "parent": 204
-    },
-    {
-        "id": 206,
-        "name": "Discloses Progress to Reducing Textiles Derived from Virgin Fossil Fuels (score)",
-        "parent": 195
-    },
-    {
-        "id": 207,
-        "name": "Discloses Progress to Reducing Textiles Derived from Virgin Fossil Fuels",
-        "parent": 206
-    },
-    {
-        "id": 208,
-        "name": "Targets to Reduce Virgin Plastics (score)",
-        "parent": 195
-    },
-    {
-        "id": 209,
-        "name": "Targets to Reduce Virgin Plastics",
-        "parent": 208
-    },
-    {
-        "id": 210,
-        "name": "Discloses Progress to Reducing Virgin Plastics (score)",
-        "parent": 195
-    },
-    {
-        "id": 211,
-        "name": "Discloses Progress to Reducing Virgin Plastics",
-        "parent": 210
-    },
-    {
-        "id": 212,
-        "name": "Minimizing Impact of Microfibres (score)",
-        "parent": 195
-    },
-    {
-        "id": 213,
-        "name": "Minimizing Impact of Microfibres",
-        "parent": 212
-    },
-    {
-        "id": 214,
-        "name": "5.4 Overconsumption, Waste & Circularity (2023)",
-        "parent": 118
-    },
-    {
-        "id": 215,
-        "name": "Discloses Quantity of Products Produced (score)",
-        "parent": 214
-    },
-    {
-        "id": 216,
-        "name": "Discloses Quantity of Products Produced",
-        "parent": 215
-    },
-    {
-        "id": 217,
-        "name": "Commitment to Degrowth (score)",
-        "parent": 214
-    },
-    {
-        "id": 218,
-        "name": "Commitment to Degrowth",
-        "parent": 217
-    },
-    {
-        "id": 219,
-        "name": "Discloses Quantity of Pre-Production Waste Generated (score)",
-        "parent": 214
-    },
-    {
-        "id": 220,
-        "name": "Discloses Quantity of Pre-Production Waste Generated",
-        "parent": 219
-    },
-    {
-        "id": 221,
-        "name": "Discloses Quantity of Post-production Waste Generated (score)",
-        "parent": 214
-    },
-    {
-        "id": 222,
-        "name": "Discloses Quantity of Post-production Waste Generated",
-        "parent": 221
-    },
-    {
-        "id": 223,
-        "name": "Discloses Breakdown of Reuse/Recyling of Pre-consumer Waste (score)",
-        "parent": 214
-    },
-    {
-        "id": 224,
-        "name": "Discloses Breakdown of Reuse/Recyling of Pre-consumer Waste",
-        "parent": 223
-    },
-    {
-        "id": 225,
-        "name": "Discloses Quantity of Products Destroyed (score)",
-        "parent": 214
-    },
-    {
-        "id": 226,
-        "name": "Discloses Quantity of Products Destroyed",
-        "parent": 225
-    },
-    {
-        "id": 227,
-        "name": "Offers Take-back Schemes (score)",
-        "parent": 214
-    },
-    {
-        "id": 228,
-        "name": "Offers Take-back Schemes",
-        "parent": 227
-    },
-    {
-        "id": 229,
-        "name": "Discloses Take-back Scheme Outcomes (score)",
-        "parent": 214
-    },
-    {
-        "id": 230,
-        "name": "Discloses Take-back Scheme Outcomes",
-        "parent": 229
-    },
-    {
-        "id": 231,
-        "name": "Offers Clothing Longevity Business Models (score)",
-        "parent": 214
-    },
-    {
-        "id": 232,
-        "name": "Offers Clothing Longevity Business Models",
-        "parent": 231
-    },
-    {
-        "id": 233,
-        "name": "Offers Repair Services (score)",
-        "parent": 214
-    },
-    {
-        "id": 234,
-        "name": "Offers Repair Services",
-        "parent": 233
-    },
-    {
-        "id": 235,
-        "name": "Discloses Evidence of Developing Circular Solutions (score)",
-        "parent": 214
-    },
-    {
-        "id": 236,
-        "name": "Discloses Evidence of Developing Circular Solutions",
-        "parent": 235
-    },
-    {
-        "id": 237,
-        "name": "Discloses % of Circular Products (score)",
-        "parent": 214
-    },
-    {
-        "id": 238,
-        "name": "Discloses % of Circular Products",
-        "parent": 237
-    },
-    {
-        "id": 239,
-        "name": "Discloses Efforts to Invest in Supply Chain Workers (score)",
-        "parent": 214
-    },
-    {
-        "id": 240,
-        "name": "Discloses Efforts to Invest in Supply Chain Workers",
-        "parent": 239
-    },
-    {
-        "id": 241,
-        "name": "5.5 Water & Chemicals",
-        "parent": 118
-    },
-    {
-        "id": 242,
-        "name": "Commitment to Eliminate Hazardous Chemicals (score)",
-        "parent": 241
-    },
-    {
-        "id": 243,
-        "name": "Commitment to Eliminate Hazardous Chemicals",
-        "parent": 242
-    },
-    {
-        "id": 244,
-        "name": "Discloses Progress to Eliminate Hazardous Chemicals (score)",
-        "parent": 241
-    },
-    {
-        "id": 245,
-        "name": "Discloses Progress to Eliminate Hazardous Chemicals",
-        "parent": 244
-    },
-    {
-        "id": 246,
-        "name": "Publishes Supplier Wastewater Test Results (score)",
-        "parent": 241
-    },
-    {
-        "id": 247,
-        "name": "Publishes Supplier Wastewater Test Results",
-        "parent": 246
-    },
-    {
-        "id": 248,
-        "name": "Discloses Water Use (score)",
-        "parent": 241
-    },
-    {
-        "id": 249,
-        "name": "Discloses Water Use",
-        "parent": 248
-    },
-    {
-        "id": 250,
-        "name": "Discloses Water-Related Risk Assessment Process (score)",
-        "parent": 241
-    },
-    {
-        "id": 251,
-        "name": "Discloses Water-Related Risk Assessment Process",
-        "parent": 250
-    },
-    {
-        "id": 252,
-        "name": "5.6 Climate Change & Biodiversity",
-        "parent": 118
-    },
-    {
-        "id": 253,
-        "name": "Decarbonisation, Deforestation and Regeneration Score (2023)",
-        "parent": 252
-    },
-    {
-        "id": 254,
-        "name": "Decarbonisation Commitment (score)",
-        "parent": 253
-    },
-    {
-        "id": 255,
-        "name": "Decarbonisation Commitment",
-        "parent": 254
-    },
-    {
-        "id": 256,
-        "name": "Decarbonisation Progress (score)",
-        "parent": 253
-    },
-    {
-        "id": 257,
-        "name": "Decarbonisation Progress",
-        "parent": 256
-    },
-    {
-        "id": 258,
-        "name": "Discloses Annual Investment in Decarbonisation (score)",
-        "parent": 253
-    },
-    {
-        "id": 259,
-        "name": "Discloses Annual Investment in Decarbonisation",
-        "parent": 258
-    },
-    {
-        "id": 260,
-        "name": "Discloses Content of Scope 1, 2 and 3 Emissions (score)",
-        "parent": 253
-    },
-    {
-        "id": 261,
-        "name": "Discloses Content of Scope 1, 2 and 3 Emissions",
-        "parent": 260
-    },
-    {
-        "id": 262,
-        "name": "Science Based Targets (score)",
-        "parent": 253
-    },
-    {
-        "id": 263,
-        "name": "Science Based Targets",
-        "parent": 262
-    },
-    {
-        "id": 264,
-        "name": "Environmental Profit and Loss Statement (score)",
-        "parent": 253
-    },
-    {
-        "id": 265,
-        "name": "Environmental Profit and Loss Statement",
-        "parent": 264
-    },
-    {
-        "id": 266,
-        "name": "Zero Deforestation Commitment (score)",
-        "parent": 253
-    },
-    {
-        "id": 267,
-        "name": "Zero Deforestation Commitment",
-        "parent": 266
-    },
-    {
-        "id": 268,
-        "name": "Zero Deforestation Progress (score)",
-        "parent": 253
-    },
-    {
-        "id": 269,
-        "name": "Zero Deforestation Progress",
-        "parent": 268
-    },
-    {
-        "id": 270,
-        "name": "Implementation of Regenerative Farming Practices (score)",
-        "parent": 253
-    },
-    {
-        "id": 271,
-        "name": "Implementation of Regenerative Farming Practices",
-        "parent": 270
-    },
-    {
-        "id": 272,
-        "name": "Discloses Carbon Emissions (score)",
-        "parent": 252
-    },
-    {
-        "id": 273,
-        "name": "Discloses Carbon Emissions",
-        "parent": 272
-    },
-    {
-        "id": 274,
-        "name": "Energy Use Score",
-        "parent": 252
-    },
-    {
-        "id": 275,
-        "name": "Discloses Absolute Energy Reduction (score)",
-        "parent": 274
-    },
-    {
-        "id": 276,
-        "name": "Discloses Absolute Energy Reduction",
-        "parent": 275
-    },
-    {
-        "id": 277,
-        "name": "Discloses Renewable Energy Use (score)",
-        "parent": 274
-    },
-    {
-        "id": 278,
-        "name": "Discloses Renewable Energy Use",
-        "parent": 277
-    },
-    {
-        "id": 279,
-        "name": "Discloses Coal Use (score)",
-        "parent": 274
-    },
-    {
-        "id": 280,
         "name": "Discloses Coal Use",
-        "parent": 279
+        "parent": 152
     }
 ]
